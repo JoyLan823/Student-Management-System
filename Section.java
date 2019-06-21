@@ -35,7 +35,7 @@ public class Section {
 	 * @param totalStudents the total number of students in this section of the class 
 	 * Setter method for totalStudents
 	 */
-	public void setTotalStudents (int totalStudents) {
+	public void setTotalStudents (int totalStudents) { 
 		this.totalStudents = totalStudents; 
 	}
 	
