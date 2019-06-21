@@ -46,7 +46,7 @@ public class Class {
 	 * @see java.lang.Object#toString()
 	 * toString method for class Class, which will return the name of the class.
 	 */
-	public String toString() {
+	public String toString() { 
 		return name;
 	}
 	
