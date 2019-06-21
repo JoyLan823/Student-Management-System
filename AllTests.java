@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 class AllTests {
 
 	/**
-	 * This method tests the addStudent method of the Section class. 
+	 * This method tests the addStudent method of the Section class.  
 	 */
 	@Test
 	void testAddStudent() {
