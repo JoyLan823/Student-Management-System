@@ -123,7 +123,7 @@ public class Exam {
 	 * @return the arraylist that contains the grade that each student received for this exam
 	 * Getter method for the arraylist of grades that each student received for this exam 
 	 */
-	public LinkedList getAllGrades() {
+	public LinkedList getAllGrades() { 
 		return allGrades;
 	}
 }
