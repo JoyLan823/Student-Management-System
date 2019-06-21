@@ -137,7 +137,7 @@ public class Student {
 	/**
 	 * @param index the index / the exam number of the exam grade that is being edited 
 	 * @param examGrade the new exam grade that is replacing the old exam grade
-	 * This method allows the user to edit a previous inputted exam grade
+	 * This method allows the user to edit a previous inputted exam grade 
 	 */
 	public void editExamGrade(int index, double examGrade) {
 		examGrades.set(index, examGrade);
