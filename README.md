@@ -1,6 +1,7 @@
 # Student-Management-System
 Short Java project of a student management system 
 
+
 The four classes - Class, Section, Exam, and Student - interact with one another to help professors manage the classes and 
 sections they teach, their students, and their exams. A client code can be built using these 4 classes to keep track of 
 information pertaining to any of those classes such as the list students in any particular section of a class; any student's 
